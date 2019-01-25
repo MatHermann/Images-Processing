@@ -1,0 +1,22 @@
+- Linear transformation
+- Linear transformation with saturation
+- Histogram equalization
+- Arithmetic operations (ADDITION, SUBTRACTION, MULTIPLICATION)
+- Nearest neighbor interpolation (zoom)
+- Convolution product
+- Gaussian filter
+- Averaging filter
+- Median filter
+- Robert's filters
+- Prewitt's filters
+- Sobel's filters
+- Laplace's Filters
+- Segmentation in 2 classes: Otsu's algorithm
+- Logical operations (NOT, AND, OR, XOR)
+- Erosion
+- Expansion
+- Opening
+- Closing
+- Internal gradient
+- External gradient
+- Morphological gradient
